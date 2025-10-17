@@ -1,16 +1,21 @@
 # HNG Stage 0 - Profile Card
 
-A responsive, accessible profile card built with HTML, CSS, and JavaScript.
+A responsive and accessible profile card built with **HTML**, **CSS**, and **JavaScript** as part of the **HNG Stage 0 Frontend Task**.
+
+## Author
+- **Name:** Promise Duke  
+- **Slack Username:** @Promise Duke  
 
 ## Live Demo
-[https://your-netlify-link-here](#)
+👉 [https://hngfrontask0.netlify.app/](https://hngfrontask0.netlify.app/)
 
 ## Features
-- Semantic HTML
-- Responsive design
-- Accessible structure
-- Dynamic time display in milliseconds
+- Semantic and accessible HTML structure  
+- Responsive design with Flexbox  
+- Dynamic current time display in milliseconds using `Date.now()`  
+- Social links to GitHub, Twitter (X), and LinkedIn  
 
 ## How to Run Locally
-1. Clone this repo
-2. Open `index.html` in your browser
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Promisead/hng-stage0-profile.git
